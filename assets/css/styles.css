@@ -1,0 +1,54 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.logotipe{
+    width: auto;
+    max-width: 100%;
+    max-height: 80px;
+}
+
+.icons{
+    color: black;
+}
+
+.title {
+    font-weight: 600;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+}
+
+.presupuesto{
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.btn-custom{
+    background: #d5f6DD;
+    color: #194c4d;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.card-text{
+    font-weight: 400 !important;
+}
+
+.card{
+    border-radius: 8px !important;
+    box-shadow: 0px 5px 7px #E5F9EA;
+}
+
+.navbar .nav-item .nav-link{
+    display: inline-block;
+}
+
+.card-img, .card-img-top{
+    border-top-left-radius: calc(0.55rem - 1px) !important; 
+    border-top-right-radius: calc(0.55rem - 1px) !important;
+}
+
